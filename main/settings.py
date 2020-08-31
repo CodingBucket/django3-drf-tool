@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     'users',
     'expenses',
+    'apiview',
 ]
 
 SWAGGER_SETTINGS = {
